@@ -1,9 +1,11 @@
 body{
-    background-color: cadetblue;
+    background-color: skyblue;
 }
 h1{
     border: 2px solid black;
     border-radius: 10px;
+    background-color:cadetblue;
+    padding: 10px;
 }
 .container{
     display: flex;
@@ -41,4 +43,14 @@ button{
     padding: 20px;
     margin-top: 20px;
     margin-right: 20px;
+    background-color: green;
+    box-shadow: 5px 5px 7px 0px #00003f;
+    border: solid 3px transparent;
+    cursor: pointer;
+    border-radius: 10px;
+      
+}
+ #stop{
+    background-color: #cf0e08;
+        
 }
